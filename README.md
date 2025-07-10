@@ -45,7 +45,8 @@ Atualmente focado em desenvolver pequenos projetos práticos para fortalecer meu
 
 - 📧 Email: allandeassischrystal@icloud.com
 - 📍 São Paulo - SP, Brasil
-- 💼 [LinkedIn](www.linkedin.com/in/allan-de-assis-chrystal)
+- 💼 LinkedIn: www.linkedin.com/in/allan-de-assis-chrystal
+
 
 ---
 
