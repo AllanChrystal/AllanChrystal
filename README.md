@@ -1,5 +1,5 @@
-## Hi there 👋
-# 👋 Olá, eu sou o Allan Chrystal
+# Hi there 👋
+
 
 🎓 Inteligência Artificial - FMU (2º semestre)  
 🎓 Data Science: explorando e analisando dados - Alura
