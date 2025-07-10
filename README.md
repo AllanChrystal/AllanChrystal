@@ -2,7 +2,9 @@
 
 
 🎓 Inteligência Artificial - FMU (2º semestre)  
+
 🎓 Data Science: explorando e analisando dados - Alura
+
 💼 Auxiliar de e-commerce, utilizando ferramentas como Bling, Excell e Photoshop.
 
 📈 Buscando minha primeira oportunidade na área de Dados e IA, com foco em aprendizado prático e profissionalismo.
