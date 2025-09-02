@@ -1,20 +1,20 @@
 # Hi there 👋
 
 
-🎓 Inteligência Artificial - FMU (2º semestre)  
+🎓 Ciência da Computação -  (1º semestre)  
 
 🎓 Data Science: explorando e analisando dados - Alura
 
-💼 Auxiliar de e-commerce, utilizando ferramentas como Bling, Excell e Photoshop.
+💼 Auxiliar de e-commerce.
 
-📈 Buscando minha primeira oportunidade na área de Dados e IA, com foco em aprendizado prático e profissionalismo.
+📈 Buscando minha primeira oportunidade na área de Dados, com foco em aprendizado prático e profissionalismo.
 
 ---
 
 ## 💡 Sobre mim
 
-Tenho interesse por dados e suas possibilidades a depender do analista. Estou estudando a fim de ter uma base sólida em Python enquanto aprendo sobre ciência de dados com Pandas, Google Colab e Jupyter.  
-Atualmente focado em desenvolver pequenos projetos práticos para fortalecer meu portfólio e evoluir constantemente como profissional da área.
+Tenho interesse por dados e suas possibilidades. Estou estudando a fim de ter uma base sólida em Python enquanto aprendo sobre ciência de dados com Pandas, Google Colab e Jupyter.  
+Atualmente focado em desenvolver pequenos projetos práticos para fortalecer meu portfólio e evoluir constantemente como profissional da área. Na faculdade, estou em meus primeiros passos, aprendendo sobre algoritmo, desenvolvimento web, matemática aplicada, sistema operacionais e muitos outros!
 
 ---
 
@@ -24,7 +24,10 @@ Atualmente focado em desenvolver pequenos projetos práticos para fortalecer meu
 - Pandas (básico)
 - Google Colab 
 - Git e GitHub (básico)
-- Em breve: Numpy, Matplotlib, Scikit-Learn e projetos com IA
+- HTML
+- CSS
+- JavaScript
+- Java
 
 ---
 
